@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Made by Smoke
+# creator ---> Timur
 
 import requests
 import webbrowser
@@ -16,11 +16,11 @@ os.system('clear')
 print(Fore.LIGHTBLUE_EX)
 print("""
  +-+-+-+-+-+ +-+-+-+-+-+ +-+-+-+-+-+-+
- |A|d|m|i|n| |p|a|n|e|l| |f|i|n|d|e|r|   |smoke|
+ |A|d|m|i|n| |p|a|n|e|l| |f|i|n|d|e|r|   |Timur|
  +-+-+-+-+-+ +-+-+-+-+-+ +-+-+-+-+-+-+""")
 print(Fore.CYAN)
-print("""TELEGRAM >> not ID ---- RUBIKA >> @Spoilede
-     	TELEGRAM CHANNEL >> t.me/Smoke_office
+print("""TELEGRAM >> not ID ---- RUBIKA >> without ID
+     	TELEGRAM CHANNEL >> t.me/Takbir_co
 """)
 
 print("\n\n\n")
